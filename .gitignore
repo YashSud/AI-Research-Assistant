@@ -1,0 +1,20 @@
+# Python virtual environments
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local SQLite / ChromaDB databases & metadata cache directories
+vector_db/
+data/
+
+# Temporary files & IDE outputs
+.idea/
+.vscode/
+*.log
+.env
+
+# OS specific listings
+.DS_Store
+Thumbs.db
